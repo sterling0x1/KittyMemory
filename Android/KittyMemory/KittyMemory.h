@@ -170,3 +170,5 @@ namespace KittyMemory {
     */
     uintptr_t getAbsoluteAddress(const char *libraryName, uintptr_t relativeAddr, bool useCache=false);
 };
+
+
